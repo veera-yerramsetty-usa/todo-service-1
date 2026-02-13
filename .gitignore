@@ -1,1 +1,37 @@
 **/.DS_Store
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+**/build/
+*/.gradle/
+
+# IDE files
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+*.log.gz
+
+# Environment variables and sensitive data
+.env
+env.properties
+
+# OS files
+.DS_Store
+Thumbs.db
